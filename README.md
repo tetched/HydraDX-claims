@@ -1,4 +1,4 @@
-# HydraDX Claims page
+# Tetched Claims page
 
 Interface for claiming HDX tokens aquired during LBP.
 
